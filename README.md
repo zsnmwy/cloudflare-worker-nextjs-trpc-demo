@@ -2,6 +2,10 @@
 
 [online demo](https://3ad38cbf.my-next-app-7qo.pages.dev/)
 
+https://github.com/zsnmwy/cloudflare-worker-nextjs-trpc-demo/blob/b23d9b5e86d4441c48d77c41663df096887f35e1/app/page.tsx#L15-L18
+
+https://github.com/zsnmwy/cloudflare-worker-nextjs-trpc-demo/blob/b23d9b5e86d4441c48d77c41663df096887f35e1/server/routers/_app.ts#L7-L9
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`c3`](https://developers.cloudflare.com/pages/get-started/c3).
 
 ## Getting Started
